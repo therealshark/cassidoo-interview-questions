@@ -1,0 +1,13 @@
+{
+  "name": "cassidoo-interview-questions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "test:watch": "node --test --watch"
+  },
+  "author": "theshark",
+  "license": "MIT",
+  "description": "Implementations for Interview Questions from the Cassidoo Newsletter"
+}
