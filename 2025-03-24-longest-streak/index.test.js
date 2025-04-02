@@ -3,7 +3,7 @@ import { strict as assert } from "node:assert";
 
 import { findLongestStreak } from "./index.js";
 
-suite("Longest Timegap", () => {
+suite("Longest Streak", () => {
   test("Example 1", () => {
     assert.equal(
       findLongestStreak([true, true, false, true, true, true], 3),
